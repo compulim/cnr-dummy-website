@@ -26,8 +26,6 @@ Hello, World!
 
 * Line 1
 * Line 2
-<<<<<<< HEAD
-=======
 
 
 
