@@ -13,9 +13,9 @@ Pipe     | $1
 ## Table
 
 Number | Description
-- | -----------
-1 | Item 1
-2 | Item 2
+------ | -----------
+N1     | Item 1
+N2     | Item 2
 
 Hello, World!
 
