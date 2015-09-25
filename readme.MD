@@ -26,3 +26,27 @@ Hello, World!
 
 * Line 1
 * Line 2
+<<<<<<< HEAD
+=======
+
+
+
+1. Line 1
+1. Line 2
+1. Line 2.5
+  * Line 2.75
+1. Line 3
+
+``` js
+{
+	"hello": "World!"
+}
+```
+
+``` html
+<div></div>
+```
+
+# Header 1
+## Header 2
+### Header 3
